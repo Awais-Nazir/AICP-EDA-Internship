@@ -4,13 +4,13 @@ This repository consolidates my five weeks of work during the AICP Exploratory D
 
 ## Weekly Work
 
-| Week | Repository |
-|------|------------|
-| Week 1 | [AICP-EDA_Intern_week1](https://github.com/Awais-Nazir/AICP-EDA_Intern_week1) |
-| Week 2 | [AICP-EDA_Intern_week2](https://github.com/Awais-Nazir/AICP-EDA_Intern_week2) |
-| Week 3 | [AICP-EDA_Intern_week3](https://github.com/Awais-Nazir/AICP-EDA_Intern_week3) |
-| Week 4 | [AICP-EDA_Week_4](https://github.com/Awais-Nazir/AICP-EDA_Week_4) |
-| Week 5 | [AICP-EDA_Week_5](https://github.com/Awais-Nazir/AICP-EDA_Week_5) |
+| Week | Work |
+|------|------|
+| Week 1 | [View Week 1](./Week-01/) |
+| Week 2 | [View Week 2](./Week-02/) |
+| Week 3 | [View Week 3](./Week-03/) |
+| Week 4 | [View Week 4](./Week-04/) |
+| Week 5 | [View Week 5](./Week-05/) |
 
 ## Repository Structure
 
